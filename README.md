@@ -3,7 +3,7 @@
 1. Clone repo
 
   ```bash
-  git clone https://github.com/code-kotis/qr-code-scanner
+  git clone https://github.com/ichsanzulfikar/pwa-uas-kelompok-pdt.git
   ```
 
 2. Installation
