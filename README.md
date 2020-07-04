@@ -1,7 +1,3 @@
-*QR Code Scanner*
-
-### [Live](https://qrcodescan.in)
-
 ## Installation
 
 1. Clone repo
