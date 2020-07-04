@@ -15,7 +15,8 @@ module.exports = {
     filename: '[name].[hash].bundle.js'
   },
   devServer: {
-    contentBase: __dirname + '/app'
+    compress: true,
+    disableHostCheck: true,
   },
   optimization: {},
   plugins: [
