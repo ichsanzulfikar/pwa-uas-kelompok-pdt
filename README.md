@@ -2,7 +2,7 @@
 
 # [QR Code Scanner](https://qrcodescan.in)
 
-*QR Code Scanner - a simple, fast and useful progressive web application*
+*QR Code Scanner*
 
 ### [Live](https://qrcodescan.in)
 
@@ -17,7 +17,7 @@
 
 ## Installation
 
-1. Clone this repo
+1. Clone repo
 
   ```bash
   git clone https://github.com/code-kotis/qr-code-scanner
@@ -41,8 +41,3 @@
   npm run build
   ```
 
-### Contributions
-
-If you find a bug, please file an issue. PR's are most welcome ;)
-
-#### MIT Licensed
